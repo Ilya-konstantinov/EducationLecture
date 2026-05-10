@@ -1,5 +1,7 @@
 *
 !main.pdf
 !main.tex
-!.img/*
 !.gitignore
+
+!.img/
+!.img/*
